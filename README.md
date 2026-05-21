@@ -14,7 +14,7 @@ Custom median filter implementation with salt-and-pepper noise testing. Morpholo
 Harris Corner Detector implemented from scratch using Sobel gradients, Gaussian smoothing, and eigenvalue-based corner response R = λ₁λ₂ − k(λ₁+λ₂)². LoG Blob Detector using scale-normalized Laplacian of Gaussian across multiple sigma values with scale-space peak detection.
 
 ### Project 4 — Color Histograms, Feature Descriptors & BoVW
-Normalized color histogram analysis across RGB, HSV, LAB, and YCrCb color spaces with histogram correlation comparison. SIFT and ORB feature extraction with runtime benchmarking. Bag of Visual Words (BoVW) pipeline: SIFT descriptors → K-Means vocabulary → L2-normalized histograms → SVM classifier. Achieved 88% classification accuracy on aquarium vs. desert dataset.
+Normalized color histogram analysis across RGB, HSV, LAB, and YCrCb color spaces with histogram correlation comparison. SIFT and ORB feature extraction with runtime benchmarking. Bag of Visual Words (BoVW) pipeline: SIFT descriptors -> K-Means vocabulary -> L2-normalized histograms -> SVM classifier. Achieved 88% classification accuracy on aquarium vs. desert dataset.
 
 ## Stack
 
